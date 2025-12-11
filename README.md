@@ -1,6 +1,7 @@
 # ChromaString
 
 Turn any text into a unique, consistent hexadecimal color.
+![Demo](docs/luis.png)
 
 ## Try
 - https://luis-ota.github.io/chromastring/
