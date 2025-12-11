@@ -1,0 +1,5 @@
+{
+  "name": "ChromaString",
+  "description": "Instantly convert any text into a unique, consistent hexadecimal color.",
+  "requestFramePermissions": []
+}
