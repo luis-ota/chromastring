@@ -4,6 +4,8 @@ Turn any text into a unique, consistent hexadecimal color.
 
 ## Try
 - https://luis-ota.github.io/chromastring/
+
+
 ## Features
 
 - **Deterministic Generation**: The same text always produces the same color.
